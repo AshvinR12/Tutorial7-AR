@@ -1,0 +1,63 @@
+[33mcommit f3e3294249f03829573dae21f51c744e9cc7dd7a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: fb9bd3b 3510a74
+Author: Ashvin Ranatunga <aran0026@student.monash.edu>
+Date:   Wed Apr 19 19:38:38 2023 +1000
+
+    another one
+
+[33mcommit fb9bd3b4ce97d4793708a10918d756b9ee552c48[m
+Author: Ashvin Ranatunga <aran0026@student.monash.edu>
+Date:   Wed Apr 19 19:34:32 2023 +1000
+
+    another random
+
+[33mcommit 3510a740755861e022edd188528b255b66e52738[m
+Author: Ashvin Ranatunga <aran0026@student.monash.edu>
+Date:   Wed Apr 19 19:30:27 2023 +1000
+
+    random
+
+[33mcommit 4fa9c16805cbb84416b8b1051a5a232682b6a20a[m
+Merge: f9306aa 4652e43
+Author: AshvinR12 <127932617+AshvinR12@users.noreply.github.com>
+Date:   Wed Apr 19 19:26:40 2023 +1000
+
+    Merge pull request #1 from AshvinR12/newbranchAR
+    
+    Newbranch ar
+
+[33mcommit 4652e437e8d73aa0a49d2af81422337bdc12f7ae[m[33m ([m[1;31morigin/newbranchAR[m[33m)[m
+Author: Ashvin Ranatunga <aran0026@student.monash.edu>
+Date:   Wed Apr 19 19:01:44 2023 +1000
+
+    added YAML options
+
+[33mcommit d19bac5b91e8433e66a16e41472b97155a382999[m
+Author: Ashvin Ranatunga <aran0026@student.monash.edu>
+Date:   Wed Apr 19 18:38:54 2023 +1000
+
+    added a figure
+
+[33mcommit ee8fdac32de799c663ce46cf63bfdfe2f2457f53[m
+Author: Ashvin Ranatunga <aran0026@student.monash.edu>
+Date:   Wed Apr 19 18:32:57 2023 +1000
+
+    added rmd file
+
+[33mcommit f9306aa74f1fbe714e8db52eb58ec026b6f9cd43[m
+Author: Ashvin Ranatunga <aran0026@student.monash.edu>
+Date:   Wed Apr 19 18:27:32 2023 +1000
+
+    updated readme
+
+[33mcommit 814483e61e64bf59509f7bb7b1fbc1d8c8a3fac4[m
+Author: Ashvin Ranatunga <aran0026@student.monash.edu>
+Date:   Wed Apr 19 18:24:40 2023 +1000
+
+    created r proj
+
+[33mcommit 583d13b4d411f032f34318d229aa5d4b36275871[m
+Author: AshvinR12 <127932617+AshvinR12@users.noreply.github.com>
+Date:   Wed Apr 19 18:14:58 2023 +1000
+
+    Initial commit
